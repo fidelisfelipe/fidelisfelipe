@@ -35,10 +35,7 @@
 <img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" />
 <img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" />
 <img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
-<img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
-<img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" />
 <img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" />
-<img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" />
 <img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" />
 <img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 
