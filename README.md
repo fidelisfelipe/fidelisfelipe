@@ -32,8 +32,9 @@
 <img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Spring" width="50px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 <img align="left" alt="Raspberrypi" width="50px" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" />
-<img align="left" alt="Kubernates" width="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
 <img align="left" alt="Docker" width="50px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
+<img align="left" alt="Kubernates" width="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+<img align="left" alt="K3S" width="50px" src="https://www.starkandwayne.com/wp-content/uploads/trying-tiny-k3s-on-google-cloud-with-k3sup.jpg" />
 <img align="left" alt="Jenkins" width="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="left" alt="RedHat" width="50px" src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" />
 <img align="left" alt="Apache" width="50px" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" />
