@@ -37,7 +37,6 @@
 <img align="left" alt="K3S" width="70px" src="https://www.starkandwayne.com/wp-content/uploads/trying-tiny-k3s-on-google-cloud-with-k3sup.jpg" />
 <img align="left" alt="Jenkins" width="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="left" alt="RedHat" width="50px" src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" />
-<img align="left" alt="Apache" width="50px" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" />
 <img align="left" alt="Eclipse" width="50px" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" />
 <img align="left" alt="JetBrains" width="50px" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" />
 
