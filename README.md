@@ -28,11 +28,17 @@
 
 ### 🛠 Languages and Tools
 <!-- Editors -->
-<img align="left" alt="Java EE" width="70px" src="http://www.ontp.net/wp-content/uploads/2013/06/javaee.png" />
+<!-- java -->
 <img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<!-- js -->
+<img align="left" alt="JS" width="50px" src="https://i.pinimg.com/736x/28/75/3d/28753ddf79d70042ba86564947e13bf5.jpg" />
+<!-- scala -->
+<img align="left" alt="Scala" width="70px" src="https://dwglogo.com/wp-content/uploads/2017/09/1300px-Scala_logo.png" />
+<br>
+<br>
+<br>
 <img align="left" alt="Spring" width="50px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 <img align="left" alt="Raspberrypi" width="50px" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" />
-<img align="left" alt="Docker" width="50px" src="https://p.kindpng.com/picc/s/326-3261444_gradle-build-tool-logo-hd-png-download.png" />
 <img align="left" alt="Docker" width="50px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
 <img align="left" alt="Kubernates" width="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
 <img align="left" alt="K3S" width="70px" src="https://www.starkandwayne.com/wp-content/uploads/trying-tiny-k3s-on-google-cloud-with-k3sup.jpg" />
@@ -40,6 +46,16 @@
 <img align="left" alt="RedHat" width="50px" src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" />
 <img align="left" alt="Eclipse" width="50px" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" />
 <img align="left" alt="JetBrains" width="50px" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" />
+<img align="left" alt="Flutter" width="50px" src="https://i.pinimg.com/originals/44/51/b1/4451b16f14d94961bbc5a1a29c2d3459.jpg" />
+<br>
+<br>
+<br>
+
+<img align="left" alt="SBT" width="50px" src="https://i1.sndcdn.com/artworks-000097254898-ek94o4-t500x500.jpg" />
+<img align="left" alt="Maven" width="100px" src="https://miro.medium.com/max/743/1*M7gYkSDwC5ny9SxxBwzozA.png" />
+<img align="left" alt="Docker" width="50px" src="https://p.kindpng.com/picc/s/326-3261444_gradle-build-tool-logo-hd-png-download.png" />
+
+
 
 
 [gmail]: mailto:fidelis.solucoes@gmail.com
