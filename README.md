@@ -32,6 +32,7 @@
 <img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Spring" width="50px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 <img align="left" alt="Raspberrypi" width="50px" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" />
+<img align="left" alt="Docker" width="50px" src="https://p.kindpng.com/picc/s/326-3261444_gradle-build-tool-logo-hd-png-download.png" />
 <img align="left" alt="Docker" width="50px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
 <img align="left" alt="Kubernates" width="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
 <img align="left" alt="K3S" width="70px" src="https://www.starkandwayne.com/wp-content/uploads/trying-tiny-k3s-on-google-cloud-with-k3sup.jpg" />
