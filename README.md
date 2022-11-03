@@ -57,8 +57,9 @@
 <img align="left" alt="SBT" width="50px" src="https://i1.sndcdn.com/artworks-000097254898-ek94o4-t500x500.jpg" />
 <img align="left" alt="Maven" width="100px" src="https://miro.medium.com/max/743/1*M7gYkSDwC5ny9SxxBwzozA.png" />
 <img align="left" alt="Docker" width="50px" src="https://p.kindpng.com/picc/s/326-3261444_gradle-build-tool-logo-hd-png-download.png" />
-
-
+<br>
+<br>
+<img align="left" alt="Docker" width="50px" src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png" />
 
 
 [gmail]: mailto:fidelis.solucoes@gmail.com
