@@ -34,8 +34,6 @@
 <img align="left" alt="JS" height="50px" src="https://i.pinimg.com/736x/28/75/3d/28753ddf79d70042ba86564947e13bf5.jpg" />
 <!-- scala -->
 <img align="left" alt="Scala" height="50px" src="https://dwglogo.com/wp-content/uploads/2017/09/1300px-Scala_logo.png" />
-<!-- Lua -->
-<img align="left" alt="Scala" height="50px" src="https://miro.medium.com/max/300/1*GWQABW-p8OpZKjNN11pMXA.png" />
 
 <br>
 <br>
