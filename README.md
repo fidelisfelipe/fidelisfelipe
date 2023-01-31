@@ -1,5 +1,5 @@
 ### Hi there, I'm Fidelis - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-### 🧔🏻 I'm majory in Analysis and systems development and working as a Software Developer
+### 🧔🏻 I'm analysis and software development and I really like this!
 
 <!-- Spacer Horizontal -->
 ----------------------
