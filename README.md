@@ -20,8 +20,6 @@
 <!-- Spacer Horizontal -->
 ----------------------
 
-[![Fidelis GitHub stats](https://github-readme-stats.vercel.app/api?username=fidelisfelipe&count_private=true&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=fidelisfelipe)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fidelisfelipe&hide=javascript,html,css&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=fidelisfelipe)
 
 <!-- Spacer Horizontal -->
 ----------------------
