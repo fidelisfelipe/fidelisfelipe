@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/fidelis-guimaraes/">
-  <img align="left" alt="Fidelis Guimarães | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Fidelis Guimarães | LinkedIN" width="22px" src="https://www.freeiconspng.com/uploads/linkedin-logo-0.png" />
 </a>
 
 <a href="https://www.instagram.com/guimaraesfidelis">
