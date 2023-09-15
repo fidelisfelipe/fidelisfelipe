@@ -27,13 +27,16 @@
 ### 🛠 Languages and Tools
 <!-- Editors -->
 <!-- java -->
+<div>
 <img align="left" alt="Java" width="50px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <!-- js -->
 <img align="left" alt="JS" height="50px" src="https://i.pinimg.com/736x/28/75/3d/28753ddf79d70042ba86564947e13bf5.jpg" />
+</div>
 
 <br>
 <br>
 <br>
+<div>
 <img align="left" alt="Spring" height="50px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 <img align="left" alt="Docker" height="50px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
 <img align="left" alt="Kubernates" height="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
@@ -43,7 +46,7 @@
 <img align="left" alt="JetBrains" height="50px" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" />
 <img align="left" alt="Flutter" height="50px" src="https://i.pinimg.com/originals/44/51/b1/4451b16f14d94961bbc5a1a29c2d3459.jpg" />
 <img align="left" alt="Maven" width="100px" src="https://miro.medium.com/max/743/1*M7gYkSDwC5ny9SxxBwzozA.png" />
-
+</div>
 
 
 [gmail]: mailto:fidelis.solucoes@gmail.com
