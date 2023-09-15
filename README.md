@@ -3,6 +3,9 @@
 
 <!-- Spacer Horizontal -->
 ----------------------
+### Connect with me:
+
+
 <p>
 <a href="mailto:fidelis.solucoes@gmail.com">
   <img align="left" alt="Fidelis | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
