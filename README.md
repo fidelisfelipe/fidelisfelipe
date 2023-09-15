@@ -24,9 +24,6 @@
 ----------------------
 
 
-<!-- Spacer Horizontal -->
-----------------------
-
 ### 🛠 Languages and Tools
 <!-- Editors -->
 <!-- java -->
