@@ -57,9 +57,7 @@
 
 ### 🎧 Spotify Playing
 
-
-[<img src="https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/02/spotify-logo-png-file-spotify-badge-large-png-1280.png" alt="Fidelis Spotify Playing" width="100" />](
-https://open.spotify.com/intl-pt/artist/7y97mc3bZRFXzT2szRM4L4?si=_GFP2_0ZT8ySh-nMdMfL_A)
+[<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="lohhans Spotify Playing" width="350" />](https://open.spotify.com/user/31wilh3lclwwu2bqabfoftd6kqh4?si=71a529aaa967446c)
 
 </p>
 
