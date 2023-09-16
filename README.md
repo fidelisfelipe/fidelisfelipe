@@ -1,6 +1,6 @@
 ### Hi there, I'm Fidelis - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 ### 🧔🏻 I'm analysis and software development and I really like this!
-[![wakatime](https://wakatime.com/badge/user/f64b4287-ccd2-422f-a4b2-01e67f19827b/project/7caa551d-73c4-4c0f-83dd-5ae9b30c9e4d.svg)](https://wakatime.com/badge/user/f64b4287-ccd2-422f-a4b2-01e67f19827b/project/7caa551d-73c4-4c0f-83dd-5ae9b30c9e4d)
+[![wakatime](https://wakatime.com/badge/user/f64b4287-ccd2-422f-a4b2-01e67f19827b.svg)](https://wakatime.com/@f64b4287-ccd2-422f-a4b2-01e67f19827b)
 <!-- Spacer Horizontal -->
 ----------------------
 ### Connect with me:
