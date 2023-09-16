@@ -48,6 +48,15 @@
 <img align="left" alt="Maven" width="100px" src="https://miro.medium.com/max/743/1*M7gYkSDwC5ny9SxxBwzozA.png" />
 </div>
 
+### 🎧 Spotify Playing
+<br>
+[<img src="https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/02/spotify-logo-png-file-spotify-badge-large-png-1280.png" alt="Fidelis Spotify Playing" width="100" />](https://open.spotify.com/user/31wilh3lclwwu2bqabfoftd6kqh4)
+
+
+[<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="lohhans Spotify Playing" width="350" />](https://open.spotify.com/user/12148950715)
+
+
+
 
 [gmail]: mailto:fidelis.solucoes@gmail.com
 [instagram]: https://instagram.com/guimaraesfidelis
