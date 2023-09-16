@@ -54,11 +54,6 @@
 <!-- Spacer Horizontal -->
 ----------------------
 
-
-### 🎧 Spotify Playing
-
-[<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="lohhans Spotify Playing" width="350" />](https://open.spotify.com/user/31wilh3lclwwu2bqabfoftd6kqh4?si=71a529aaa967446c)
-
 </p>
 
 [gmail]: mailto:fidelis.solucoes@gmail.com
