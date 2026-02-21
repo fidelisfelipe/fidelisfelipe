@@ -32,7 +32,7 @@
   
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
   
-![GitHub last commit](https://img.shields.io/github/last-commit/fidelisfelipe/microservices)
+![GitHub last commit](https://img.shields.io/github/last-commit/fidelisfelipe/learn-java-21)
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
